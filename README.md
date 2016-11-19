@@ -1,20 +1,20 @@
 # gustavo
 #Projeto do semestre
 
-Tema:
+Tema:firma de gesso.
 
-Público-alvo:
+Público-alvo:clientes interesados e seviso de gesso.
 
-Objetivos do site:
+Objetivos do site:atrair clientes.
 
-Funcionalidades do site:
+Funcionalidades do site:propaganda.
 
-Usuário Administrador:
+Usuário Administrador:Arthur Panzenboeck e Karina Araujo
 
 Usuário Logado:
 
 Usuário Visitante:
 
-Mapa de Navegação:
+Mapa de Navegação:home, contato, portifolio
 
 Wireframe:
