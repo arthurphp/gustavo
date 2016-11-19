@@ -1,0 +1,13 @@
+#im1{
+    width:918px;     
+}
+li a input {
+    width: 894px;
+    background-color: azure;
+    height: 65px;
+    font-size: 60px;
+}
+nav ul li {
+    margin-top: 2px;
+}
+media="screen and (min-width: 360px)"
